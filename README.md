@@ -1,22 +1,22 @@
 # Oi, eu sou o Guilherme! 👋
 
-Tenho 15 anos e sou estudante de programação em Ribeirão Preto, Brasil.
+Tenho 15 anos e sou estudante de programação em Sertãozinho, Brasil.
 
-Se eu acho um problema interessante, provavelmente já estou pensando em como resolver ele com código.
+Gosto de pensar e tentar criar projetos
 
 Meu foco atual é **C#**, **Python** e **Banco de Dados**. Também estou aprendendo desenvolvimento web com **Svelte**.
 
-Faço o curso de programação aos sábados e uso o GitHub pra guardar tudo que aprendo e construo.
+Faço o curso de programação aos sábados e pela semana, uso o GitHub pra guardar tudo que aprendo e construo.
 
-Se quiser ver como eu codifico, dá uma olhada nos meus projetos fixados abaixo.
+dá uma olhada nos meus projetos fixados abaixo.
 
 ---
 
 ## O que estou aprendendo agora
 
-- C# com Windows Forms e arquitetura em camadas (N-Tier)
+- C# com Windows Forms e arquitetura em camadas
 - SQL Server e stored procedures
-- Python para lógica e automação
+- Python com Django
 - Svelte para interfaces web
 
 ---
@@ -34,17 +34,10 @@ Se quiser ver como eu codifico, dá uma olhada nos meus projetos fixados abaixo.
 
 ## Fatos sobre mim
 
-- Tenho 15 anos e já sei que quero ser programador
+- Gosto muito de Java
 - Estou no ensino médio e faço curso de programação no mesmo período
-- Gosto de entender como as coisas funcionam por baixo do capô
-- Meu projeto favorito até agora é o sistema de cadastro de alunos — foi o primeiro com arquitetura em camadas de verdade
-
----
-
-## Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermemorelidev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemorelidev&layout=compact&theme=tokyonight&hide_border=true)
+- Gosto de entender como as coisas funcionam
+- Amo jogar <3
 
 ---
 
