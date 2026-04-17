@@ -36,7 +36,6 @@ dá uma olhada nos meus projetos fixados abaixo.
 
 - Gosto muito de Java
 - Estou no ensino médio e faço curso de programação no mesmo período
-- Gosto de entender como as coisas funcionam
 - Amo jogar <3
 
 ---
